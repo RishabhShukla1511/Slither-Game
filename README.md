@@ -20,7 +20,7 @@ Pygame
 Rishabh Shukla
 
 ### message
-* Copying of the game in any way is prohibited
+
 * Kindly enjoy and **share your views**
 * **THE USER NEEDS TO CHANGE THE ADDRESS OF THE IMAGES AND THE SOUND FILES**
 * Download the .zip file and use it
